@@ -6,3 +6,4 @@ Hackear Gmail
 Comandos
 '''apt update && apt upgrade'''
 '''pkg install git'''
+h
